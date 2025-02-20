@@ -1,1 +1,1 @@
-docker pull jetbrains/teamcity-agent
+FROM jetbrains/teamcity-agent
